@@ -5,7 +5,7 @@ import subprocess
 url = "https://api-gateway.skymavis.com/graphql/marketplace"
 headers = {
 "Content-Type": "application/json",
-"X-API-Key": "plPOeccBmsoqRqkTnDNfsgdzD420jwBA"
+"X-API-Key": "get your own key at developers.skymavis.com/"
 }
 
 #purity score is 76-100
